@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melek\\OneDrive\\Masa\u00FCst\u00FC\\SinemaSalonuProject\\SinemaSalonuProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EAA6E4-6936-4041-8756-F9EF2A32382A}|SinemaSalonuProject\\SinemaSalonuProject.csproj|c:\\users\\melek\\onedrive\\masa\u00FCst\u00FC\\sinemasalonuproject\\sinemasalonuproject\\sinemasalonuproject\\process\\biletproccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EAA6E4-6936-4041-8756-F9EF2A32382A}|SinemaSalonuProject\\SinemaSalonuProject.csproj|solutionrelative:sinemasalonuproject\\process\\biletproccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EAA6E4-6936-4041-8756-F9EF2A32382A}|SinemaSalonuProject\\SinemaSalonuProject.csproj|c:\\users\\melek\\onedrive\\masa\u00FCst\u00FC\\sinemasalonuproject\\sinemasalonuproject\\sinemasalonuproject\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EAA6E4-6936-4041-8756-F9EF2A32382A}|SinemaSalonuProject\\SinemaSalonuProject.csproj|solutionrelative:sinemasalonuproject\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\melek\\OneDrive\\Masa\u00FCst\u00FC\\SinemaSalonuProject\\SinemaSalonuProject\\SinemaSalonuProject\\Menu.cs",
+              "RelativeDocumentMoniker": "SinemaSalonuProject\\Menu.cs",
+              "ToolTip": "C:\\Users\\melek\\OneDrive\\Masa\u00FCst\u00FC\\SinemaSalonuProject\\SinemaSalonuProject\\SinemaSalonuProject\\Menu.cs",
+              "RelativeToolTip": "SinemaSalonuProject\\Menu.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwOIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:18:19.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BiletProccess.cs",
+              "DocumentMoniker": "C:\\Users\\melek\\OneDrive\\Masa\u00FCst\u00FC\\SinemaSalonuProject\\SinemaSalonuProject\\SinemaSalonuProject\\Process\\BiletProccess.cs",
+              "RelativeDocumentMoniker": "SinemaSalonuProject\\Process\\BiletProccess.cs",
+              "ToolTip": "C:\\Users\\melek\\OneDrive\\Masa\u00FCst\u00FC\\SinemaSalonuProject\\SinemaSalonuProject\\SinemaSalonuProject\\Process\\BiletProccess.cs",
+              "RelativeToolTip": "SinemaSalonuProject\\Process\\BiletProccess.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwGwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:57:09.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
